@@ -21,11 +21,11 @@ Each one only ever looks at you. None of them assesses a colleague, scores anyon
 
 ## Get one
 
-- **Download a zip:** pick a skill from the table above, then take its zip from the [latest release](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest).
-  - [silent-wins.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/silent-wins.zip)
-  - [failed-to-mention.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/failed-to-mention.zip)
-  - [what-changed.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/what-changed.zip)
-  - [how-i-showed-up.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/how-i-showed-up.zip)
+- **Download a zip:** pick a skill from the table above, then take its zip from the [latest release](https://github.com/Always-Allow/managing-up-and-down/releases/latest).
+  - [silent-wins.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/silent-wins.zip)
+  - [failed-to-mention.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/failed-to-mention.zip)
+  - [what-changed.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/what-changed.zip)
+  - [how-i-showed-up.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/how-i-showed-up.zip)
 - **Read one first:** the links in the table go straight to the file.
 
 Use a download link above, not the green Code button. The Code button zips this whole page, which is a different shape from the one the tools expect.
