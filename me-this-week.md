@@ -10,7 +10,7 @@ Copy it, keep the first line for your tool and delete the other, then fill in wh
 [Claude] Build me a page called "Me this week" that pulls fresh from my meeting transcripts each time I open it.
 [ChatGPT] Every Monday at 8am, send me "Me this week" from my meeting transcripts.
 
-Compare my last full week of meetings, Monday to Friday, with the week before it. Measure the way the How I showed up skill does: say how many meetings are in each week, use only transcripts with speaker labels and timestamps, and if a number can't be measured from what you have, say so instead of estimating it.
+Compare my last full week of meetings, Monday to Friday, with the week before it. Measure the way the How I showed up skill does: say how many meetings are in each week, count only meetings whose transcripts have speaker labels, use timestamps only for time to my main point, and if a number can't be measured from what you have, say so instead of estimating it.
 
 What I'm working on: [paste it from About me.md].
 
