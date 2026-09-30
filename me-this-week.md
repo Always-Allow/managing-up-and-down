@@ -1,6 +1,6 @@
 # Me this week
 
-A page on how you showed up, waiting for you every Monday. It reads your meeting transcripts and gives you the same three numbers as [How I showed up](how-i-showed-up/SKILL.md), this week against last, plus one thing to try.
+A page on how you showed up, waiting for you every Monday. It reads your meeting transcripts and gives you the same three numbers as [How I showed up](how-i-showed-up/SKILL.md), your last full week against the week before, plus one thing to try this week.
 
 ## The prompt
 
@@ -10,12 +10,14 @@ Copy it, keep the first line for your tool and delete the other, then fill in wh
 [Claude] Build me a page called "Me this week" that pulls fresh from my meeting transcripts each time I open it.
 [ChatGPT] Every Monday at 8am, send me "Me this week" from my meeting transcripts.
 
+Compare my last full week of meetings, Monday to Friday, with the week before it. Measure the way the How I showed up skill does: say how many meetings are in each week, use only transcripts with speaker labels and timestamps, and if a number can't be measured from what you have, say so instead of estimating it.
+
 What I'm working on: [paste it from About me.md].
 
-GETTING TO THE POINT: my average time to my main point, this week against last week.
-FOLLOW-UP QUESTIONS: how many I asked, this week against last week.
-SHARE OF THE TALKING: my share, this week against last week.
-ONE THING TO TRY: one change for next week, tied to what I'm working on.
+GETTING TO THE POINT: my average time to my main point, last week against the week before.
+FOLLOW-UP QUESTIONS: how many follow-up questions I asked per meeting, last week against the week before.
+SHARE OF THE TALKING: my share of the words, last week against the week before.
+ONE THING TO TRY: one change for this week, tied to what I'm working on.
 ```
 
 ## Where it runs
