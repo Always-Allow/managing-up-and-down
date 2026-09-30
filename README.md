@@ -15,6 +15,10 @@ Each one only ever looks at you. None of them assesses a colleague, scores anyon
 | [What changed](what-changed/SKILL.md) | What shifted between two months, in your own habits, your team's work, or what your leadership talks about | Two columns side by side, and one line on what to do about each row |
 | [How I showed up](how-i-showed-up/SKILL.md) | How you land in meetings, in your 1:1s and in your updates | Three numbers, this week against last, with the calculation behind each |
 
+## A weekly page on you
+
+[Me this week](me-this-week.md) is a prompt, not a skill. It gives you the How I showed up numbers every Monday without asking, plus one thing to try. Copy it from the file and paste it into Claude or ChatGPT.
+
 ## Get one
 
 - **Download a zip:** pick a skill from the table above, then take its zip from the [latest release](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest).
