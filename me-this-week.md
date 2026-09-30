@@ -1,6 +1,6 @@
 # Me this week
 
-A page on how you showed up, waiting for you every Monday. It reads your meeting transcripts and gives you the same three numbers as [How I showed up](how-i-showed-up/SKILL.md), your last full week against the week before, plus one thing to try this week.
+A page on how you showed up: in Claude it refreshes whenever you open it, and in ChatGPT it arrives every Monday. It reads your meeting transcripts and gives you the same three numbers as [How I showed up](how-i-showed-up/SKILL.md), your last full week against the week before, plus one thing to try this week.
 
 ## The prompt
 
