@@ -17,7 +17,7 @@ Each one only ever looks at you. None of them assesses a colleague, scores anyon
 
 ## A weekly page on you
 
-[Me this week](me-this-week.md) is a prompt, not a skill. It gives you the How I showed up numbers every Monday without asking, plus one thing to try. Copy it from the file and paste it into Claude or ChatGPT.
+[Me this week](me-this-week.md) is a prompt, not a skill. It gives you the How I showed up numbers for your last full week, plus one thing to try. In Claude it is a page that refreshes each time you open it; in ChatGPT it is a task sent to you every Monday. Copy it from the file and paste it into either.
 
 ## Get one
 
