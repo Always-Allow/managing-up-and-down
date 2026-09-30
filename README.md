@@ -15,13 +15,17 @@ Each one only ever looks at you. None of them assesses a colleague, scores anyon
 | [What changed](what-changed/SKILL.md) | What shifted between two months, in your own habits, your team's work, or what your leadership talks about | Two columns side by side, and one line on what to do about each row |
 | [How I showed up](how-i-showed-up/SKILL.md) | How you land in meetings, in your 1:1s and in your updates | Three numbers, this week against last, with the calculation behind each |
 
+## A weekly page on you
+
+[Me this week](me-this-week.md) is a prompt, not a skill. It gives you the How I showed up numbers for your last full week, plus one thing to try. In Claude it is a page that refreshes each time you open it; in ChatGPT it is a task sent to you every Monday. Copy it from the file and paste it into either.
+
 ## Get one
 
-- **Download a zip:** pick a skill from the table above, then take its zip from the [latest release](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest).
-  - [silent-wins.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/silent-wins.zip)
-  - [failed-to-mention.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/failed-to-mention.zip)
-  - [what-changed.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/what-changed.zip)
-  - [how-i-showed-up.zip](https://github.com/sarahcallmesmadds/managing-up-and-down/releases/latest/download/how-i-showed-up.zip)
+- **Download a zip:** pick a skill from the table above, then take its zip from the [latest release](https://github.com/Always-Allow/managing-up-and-down/releases/latest).
+  - [silent-wins.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/silent-wins.zip)
+  - [failed-to-mention.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/failed-to-mention.zip)
+  - [what-changed.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/what-changed.zip)
+  - [how-i-showed-up.zip](https://github.com/Always-Allow/managing-up-and-down/releases/latest/download/how-i-showed-up.zip)
 - **Read one first:** the links in the table go straight to the file.
 
 Use a download link above, not the green Code button. The Code button zips this whole page, which is a different shape from the one the tools expect.
